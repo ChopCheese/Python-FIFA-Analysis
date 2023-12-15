@@ -1,4 +1,4 @@
-# Python-FIFA-Analysis
+# Python FIFA Analysis
 
 
 ### Project Overview
@@ -178,9 +178,9 @@ plt.xticks(rotation=45)
 plt.show()
 
 ```
+![Team with most win](FIFA/1.png)
 
-
-3. Finding the total goals scored across the copetiton on each stage in histogram visuals
+3. Finding the total goals scored across the competition on each stage in histogram visuals
 
 ```Python
 
@@ -231,6 +231,8 @@ plt.legend(title='Competition Stage')
 plt.show()
 
 ```
+![goals scored across the competition](FIFA/2.png)
+
 
 4. Making a pie chart of the top 10 team with the highest goals
 
@@ -254,8 +256,10 @@ plt.title("Top 10 teams with the highest goals")
 plt.show()
 
 ```
+![top 10 team with the highest goals](FIFA/3.png)
 
-5. Making a histogram consist of goals score in minute range
+
+5. Making a histogram consist of goals scored in minute range
 
 ```Python
 
@@ -277,6 +281,7 @@ plt.xticks(rotation=45)
 plt.show()
 
 ```
+![goals scored in minute range](FIFA/4.png)
 
 6. Finding the top goalscorers for each team in bar plot
 
@@ -313,6 +318,8 @@ plt.tight_layout()
 plt.show()
 
 ```
+
+![Top goalscorers for each team](FIFA/5.png)
 
 ### Results
 
