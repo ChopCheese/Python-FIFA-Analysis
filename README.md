@@ -333,7 +333,7 @@ plt.show()
 
 ### Limitations
 
-- No further data on Player statistics such as Number of passes, Asssist and clean hseet to further analyze the player performances
+- No further data on Player statistics such as Number of passes, Asssist and clean sheet to further analyze the player performances
 - Lack of team data such as shots on target, possesions to make an extesive analysis to find which team perform better on average
 - No record on if player play for every match to get the average goal per game
 
